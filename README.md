@@ -6,7 +6,7 @@ A simple Python-based steganography project that hides a secret message and pass
 OVERVIEW:
 This project uses robust LSB steganography to embed a secret message along with a passcode into an image. It consists of two Python scripts with user-friendly GUIs built using Tkinter.
 
-Features
+#Features
 Encryption:
 Embeds a secret message and passcode into mypic.jpg and saves the result as encrypted.png.
 
@@ -19,7 +19,7 @@ Easy-to-use interfaces for both encryption and decryption processes.
 Robust Data Storage:
 Uses a header to store the lengths of the passcode and message for accurate extraction.
 
-Requirements
+#Requirements
 Python 3.x
 OpenCV
 NumPy
